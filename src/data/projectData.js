@@ -14,5 +14,18 @@ export const projects = [
     liveSite: "https://jgp345.github.io/HomeBuilders2/",
     githubRepo: "https://github.com/JGP345/HomeBuilders2",
   },
-  // Add more projects here...
+  {
+    id: 2,
+    title: {
+      en: "World of Spider-Man",
+      es: "Mundo de Spider-Man",
+    },
+    description: {
+      en: "This is about SpiderMan yo",
+      es: "Esto es sobre spiderman, yoyo",
+    },
+    image: "",
+    liveSite: "https://jgp345.github.io/WorldofSpiderman/",
+    githubRepo: "https://github.com/JGP345/WorldofSpiderman",
+  },
 ];
